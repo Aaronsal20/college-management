@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='st2.css' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <form>
+    <a id = "head">LOGIN:<br></a>
+    USN:<br>
+    <input type = "name" name="usn"><br>
+    Password:<br>
+    <input type = "password" name = "password"><br>
+  </form>
+</body>
+</html>
